@@ -1,0 +1,6 @@
+version: '3'
+services:
+  web:
+    image: hilmiraditya/chip-demo:latest
+    ports:
+     - "80:80"
